@@ -16,22 +16,22 @@
 </div>
 
 
-## 🚀 FEATURES
+# 🚀 FEATURES
 
-# 📊 Product Overview Dashboard
+ 📊 Product Overview Dashboard
 View product data retrieved from the FDA API.
 
-# 🔍 Advanced Filtering
+ 🔍 Advanced Filtering
 Filter products by date and spesific elements.
 
-# 🧠 State Management with Cubit (Bloc)
+ 🧠 State Management with Cubit (Bloc)
 Predictable and scalable state handling with the Bloc library.
 
-# 🏗️ Clean Architecture
+ 🏗️ Clean Architecture
 Modular code structure.
 
-# 🎯 Enum-Based Constants
+ 🎯 Enum-Based Constants
 Enum usage for structured constants to ensure maintainability.
 
-#🌙 Dark & Light Mode Support
+ 🌙 Dark & Light Mode Support
 Theme support for improved user experience.
